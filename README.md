@@ -7,5 +7,5 @@
 - 👯 Планирую изучать Redux и TypeScript
 
 🔨 Мой стек:
-VS Code HTML CSS Javascript React
+VS Code, HTML, CSS, JavaScript, React
 
