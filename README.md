@@ -4,8 +4,8 @@
 
 - 💪 Активно учусь работать с React.js
 - 🌟 Готова к изучению новых технологий
-- 👯 Планирую изучать TypeScript
+- 👯 Есть небольшой опыт работы с Angular 
 
 🔨 Мой стек:
-VS Code, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Redux, React DnD
+HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Redux, React DnD, TypeScript
 
